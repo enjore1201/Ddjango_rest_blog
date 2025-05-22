@@ -3,7 +3,7 @@ from .local import *
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1:8000']
+ALLOWED_HOSTS = ['enore1201.pythonanywhere.com']
 
 DATABASES = {
     'default': {
